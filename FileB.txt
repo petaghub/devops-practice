@@ -1,11 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-
 "This is FileB -4th-4 commit-Feature Baranch"
-
-=======
-"This is FileB -4th-4 commit-Feature Baranch"
->>>>>>> feature
-=======
-"This is FileB -4th-4 commit-Feature Baranch"
->>>>>>> feature
