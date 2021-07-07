@@ -1,5 +1,8 @@
 "This is FileA -4th-4 commit-Feature Baranch"
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> feature
 =======
 >>>>>>> feature
